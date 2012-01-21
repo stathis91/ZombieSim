@@ -1,14 +1,12 @@
-# Capsup's Engine
+# Android Zombie Simulator
 
-A simple engine in developement by Capsup and Digital-Decadence.com
+A simple zombie simulator developed by Capsup and Broodroster.
 
 ## Features:
 
-- Spinning blue 2d boxes in a 3d world!
-- Left arrow key rotates the box!
+- Uh.. A black background screen!
 - Amazing coding!
 
 ## Requirements
 
-- A opengl 3.3 capable graphics card or higher.
-- Visual C++ Redistributable 2010 installed. ( Google it. )
+- A compatible android phone.
