@@ -6,6 +6,7 @@ import android.os.Bundle;
 public class ZombieSimActivity extends Activity
 {
 	/** Called when the activity is first created. */
+	// Added a comment
 	@Override
 	public void onCreate( Bundle savedInstanceState )
 	{
